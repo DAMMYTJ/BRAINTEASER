@@ -1,0 +1,38 @@
+#owner of a shipping company
+
+print("""
+
+ ***********    @@@@@@
+ ***********    $$$$$$
+   ^^^^^        ******
+   ^^^^^        $$$$$$
+   ^^^^^        ^^^^^^
+   ^^^^^        ******
+   ^^^^^        %%%%%%
+   ^^^^^        %%%%%%
+   $$$$$        $$$$$$
+   ^^^^^        ******
+""")
+
+
+
+total = 300
+#country = "US"
+country = "US"
+if country == "GH":
+      if total <= 200:
+          print("shipping cost is $200")
+#second block of code is equivalent to the total
+elif total <= 250:
+    print("shipping cost is $250")
+elif total <= 300:
+    print("shipping cost is $300")
+
+else:
+    print("FREE")
+if country == "GH":
+     if total <= 200:
+          print("shipping cost is $200")
+else:    
+             print("FREE")  
+
