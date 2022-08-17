@@ -1,0 +1,6 @@
+print("NAMES" "\tMaths" "\t\tPhysics"  "\t\t\tEnglish" "\t\t\t\tAccount" "\t\t\t\t\tCivic" "\t\t\t\t\t\tTOTAL")
+print("AYO" "\t70" "\t\t80"  "\t\t\t50" "\t\t\t\t30" "\t\t\t\t\t20" "\t\t\t\t\t\t199")
+print("DAYO" "\t70" "\t\t80"  "\t\t\t50" "\t\t\t\t30" "\t\t\t\t\t20" "\t\t\t\t\t\t199")
+print("TAYO" "\t70" "\t\t80"  "\t\t\t50" "\t\t\t\t30" "\t\t\t\t\t20" "\t\t\t\t\t\t199")
+print("SHAYO" "\t70" "\t\t80"  "\t\t\t50" "\t\t\t\t30" "\t\t\t\t\t20" "\t\t\t\t\t\t199")
+print("MAYO" "\t70" "\t\t80"  "\t\t\t50" "\t\t\t\t30" "\t\t\t\t\t20" "\t\t\t\t\t\t199")
